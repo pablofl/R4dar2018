@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/pablo/Documents/WORK/Radar/android/_src/R4dar/TMessagesProj/build/intermediates/incremental/mergeArmReleaseResources/merged.dir/values-v14/values-v14.xml",
+            "map": [
+                {
+                    "source": "/Users/pablo/.gradle/caches/transforms-1/files-1.1/HockeySDK-4.0.0-beta.1.aar/7f0d8353d733d1cd3fffa201ab0fa61b/res/values-v14/values-v14.xml",
+                    "from": {
+                        "startLines": "2,9,20",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,450,1090",
+                        "endLines": "8,19,22",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "445,1085,1233"
+                    },
+                    "to": {
+                        "startLines": "3,10,21",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "109,504,1144",
+                        "endLines": "9,20,23",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "499,1139,1287"
+                    }
+                },
+                {
+                    "source": "/Users/pablo/Documents/WORK/Radar/android/_src/R4dar/TMessagesProj/src/main/res/values-v14/bools.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endColumns": "53",
+                        "endOffsets": "105"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "53",
+                        "endOffsets": "104"
+                    }
+                }
+            ]
+        }
+    ]
+}

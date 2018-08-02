@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/pablo/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/5f905d83e6da6a5f40e7ed129d7f3b85/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/pablo/Documents/WORK/Radar/android/_src/R4dar/TMessagesProj/build/intermediates/transforms/preDex/arm/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pablo/.gradle/caches/transforms-1/files-1.1/play-services-gcm-8.4.0.aar/378522f29a59f19a506973144663b063/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="/Users/pablo/Documents/WORK/Radar/android/_src/R4dar/TMessagesProj/build/intermediates/transforms/preDex/arm/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pablo/.gradle/caches/transforms-1/files-1.1/HockeySDK-4.0.0-beta.1.aar/7f0d8353d733d1cd3fffa201ab0fa61b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="9"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a1caf86b38ae060d99d588c1a8cf19998193a801">
+        <dex dex="/Users/pablo/Documents/WORK/Radar/android/_src/R4dar/TMessagesProj/build/intermediates/transforms/preDex/armv7/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pablo/.gradle/caches/transforms-1/files-1.1/support-v4-23.3.0.aar/05dead974571b075ce783cad00da183c/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        min-sdk-version="9"
+        optimize="true"
+        revision="26.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/pablo/Documents/WORK/Radar/android/_src/R4dar/TMessagesProj/build/intermediates/transforms/preDex/armv7/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pablo/.gradle/caches/modules-2/files-2.1/com.googlecode.mp4parser/isoparser/1.0.6/2f9b0233a54d1fcbf84867b0e2518842cb0cd965/isoparser-1.0.6.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2f9b0233a54d1fcbf84867b0e2518842cb0cd965">
+        <dex dex="/Users/pablo/Documents/WORK/Radar/android/_src/R4dar/TMessagesProj/build/intermediates/transforms/preDex/arm/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pablo/.gradle/caches/transforms-1/files-1.1/support-v4-23.3.0.aar/05dead974571b075ce783cad00da183c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/pablo/Documents/WORK/Radar/android/_src/R4dar/TMessagesProj/build/intermediates/transforms/preDex/arm/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pablo/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/d319f1090fe3a891611682d276594f6d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="9"
+        optimize="true"
+        revision="26.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/pablo/Documents/WORK/Radar/android/_src/R4dar/TMessagesProj/build/intermediates/transforms/preDex/armv7/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pablo/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.4.0.aar/fcee2a2a234c1d1a7c208314a25dfccf/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="9"
+        optimize="true"
+        revision="26.0.3"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="/Users/pablo/Documents/WORK/Radar/android/_src/R4dar/TMessagesProj/build/intermediates/transforms/preDex/armv7/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pablo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        min-sdk-version="9"
+        optimize="true"
+        revision="26.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/pablo/Documents/WORK/Radar/android/_src/R4dar/TMessagesProj/build/intermediates/transforms/preDex/armv7/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pablo/.gradle/caches/transforms-1/files-1.1/HockeySDK-4.0.0-beta.1.aar/7f0d8353d733d1cd3fffa201ab0fa61b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a1caf86b38ae060d99d588c1a8cf19998193a801">
+        <dex dex="/Users/pablo/Documents/WORK/Radar/android/_src/R4dar/TMessagesProj/build/intermediates/transforms/preDex/arm/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pablo/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.4.0.aar/8db92c767c4c53d3f716807f23b8f8d0/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.3"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/Users/pablo/Documents/WORK/Radar/android/_src/R4dar/TMessagesProj/build/intermediates/transforms/preDex/arm/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pablo/.gradle/caches/transforms-1/files-1.1/play-services-gcm-8.4.0.aar/378522f29a59f19a506973144663b063/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="9"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="/Users/pablo/Documents/WORK/Radar/android/_src/R4dar/TMessagesProj/build/intermediates/transforms/preDex/armv7/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pablo/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjrt/1.8.2/7dede91c0c36b1265fc99c55283b90ed2be144c8/aspectjrt-1.8.2.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7dede91c0c36b1265fc99c55283b90ed2be144c8">
+        <dex dex="/Users/pablo/Documents/WORK/Radar/android/_src/R4dar/TMessagesProj/build/intermediates/transforms/preDex/arm/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pablo/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.4.0.aar/fcee2a2a234c1d1a7c208314a25dfccf/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.3"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="/Users/pablo/Documents/WORK/Radar/android/_src/R4dar/TMessagesProj/build/intermediates/transforms/preDex/arm/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pablo/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjrt/1.8.2/7dede91c0c36b1265fc99c55283b90ed2be144c8/aspectjrt-1.8.2.jar"
+        jumboMode="false"
+        min-sdk-version="9"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7dede91c0c36b1265fc99c55283b90ed2be144c8">
+        <dex dex="/Users/pablo/Documents/WORK/Radar/android/_src/R4dar/TMessagesProj/build/intermediates/transforms/preDex/armv7/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pablo/.gradle/caches/modules-2/files-2.1/com.googlecode.mp4parser/isoparser/1.0.6/2f9b0233a54d1fcbf84867b0e2518842cb0cd965/isoparser-1.0.6.jar"
+        jumboMode="false"
+        min-sdk-version="9"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2f9b0233a54d1fcbf84867b0e2518842cb0cd965">
+        <dex dex="/Users/pablo/Documents/WORK/Radar/android/_src/R4dar/TMessagesProj/build/intermediates/transforms/preDex/armv7/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pablo/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.4.0.aar/8db92c767c4c53d3f716807f23b8f8d0/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="9"
+        optimize="true"
+        revision="26.0.3"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/Users/pablo/Documents/WORK/Radar/android/_src/R4dar/TMessagesProj/build/intermediates/transforms/preDex/armv7/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pablo/.gradle/caches/transforms-1/files-1.1/support-v4-23.3.0.aar/05dead974571b075ce783cad00da183c/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/pablo/Documents/WORK/Radar/android/_src/R4dar/TMessagesProj/build/intermediates/transforms/preDex/arm/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pablo/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/d319f1090fe3a891611682d276594f6d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/pablo/Documents/WORK/Radar/android/_src/R4dar/TMessagesProj/build/intermediates/transforms/preDex/arm/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pablo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/pablo/Documents/WORK/Radar/android/_src/R4dar/TMessagesProj/build/intermediates/transforms/preDex/arm/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pablo/.gradle/caches/transforms-1/files-1.1/support-v4-23.3.0.aar/05dead974571b075ce783cad00da183c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="9"
+        optimize="true"
+        revision="26.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/pablo/Documents/WORK/Radar/android/_src/R4dar/TMessagesProj/build/intermediates/transforms/preDex/armv7/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pablo/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/5f905d83e6da6a5f40e7ed129d7f3b85/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="9"
+        optimize="true"
+        revision="26.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/pablo/Documents/WORK/Radar/android/_src/R4dar/TMessagesProj/build/intermediates/transforms/preDex/armv7/release/4.jar" />
+    </item>
+
+</items>

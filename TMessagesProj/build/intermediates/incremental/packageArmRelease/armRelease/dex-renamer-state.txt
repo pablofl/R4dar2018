@@ -1,0 +1,4 @@
+#Thu Jul 26 22:52:41 BRT 2018
+base.0=/Users/pablo/Documents/WORK/Radar/android/_src/R4dar/TMessagesProj/build/intermediates/transforms/dex/arm/release/0
+path.0=classes.dex
+renamed.0=classes.dex

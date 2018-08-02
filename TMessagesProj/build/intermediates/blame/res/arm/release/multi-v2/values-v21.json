@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/pablo/Documents/WORK/Radar/android/_src/R4dar/TMessagesProj/build/intermediates/incremental/mergeArmReleaseResources/merged.dir/values-v21/values-v21.xml",
+            "map": [
+                {
+                    "source": "/Users/pablo/Documents/WORK/Radar/android/_src/R4dar/TMessagesProj/src/main/res/values-v21/styles.xml",
+                    "from": {
+                        "startLines": "68,60,98,24,75,53,91,82,44,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "3440,3112,4605,1011,3697,2838,4353,3973,2366,350",
+                        "endLines": "71,64,101,42,78,56,94,87,51,22",
+                        "endColumns": "12,12,12,12,12,12,12,12,12,12",
+                        "endOffsets": "3661,3401,4775,2360,3945,3083,4574,4325,2832,1005"
+                    },
+                    "to": {
+                        "startLines": "2,6,11,15,34,38,42,46,52,60",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,281,575,750,2104,2357,2607,2833,3190,3661",
+                        "endLines": "5,10,14,33,37,41,45,51,59,69",
+                        "endColumns": "12,12,12,12,12,12,12,12,12,12",
+                        "endOffsets": "276,570,745,2099,2352,2602,2828,3185,3656,4316"
+                    }
+                }
+            ]
+        }
+    ]
+}
